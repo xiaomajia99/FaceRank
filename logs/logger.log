@@ -1,0 +1,6 @@
+INFO:root:test
+DEBUG:root:debug
+2021-04-26 01:13:56,117  run.py  INFO test
+2021-04-26 01:13:56,118  run.py  DEBUG debug
+2021-04-26 01:14:37,464  run.py  INFO  test
+2021-04-26 01:14:37,465  run.py  DEBUG  debug
